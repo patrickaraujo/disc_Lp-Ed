@@ -23,7 +23,7 @@ Cada grupo deve desenvolver, em Python, um sistema que aplique os conceitos de l
 
 Todo sistema, independentemente do cenário e da estrutura de dados escolhida, deve conter:
 
-- **Lógica e algoritmo (Aulas 01-02):** fluxograma ou pseudocódigo (Portugol) do fluxo principal do sistema, entregue junto ao código e coerente com o que foi implementado.
+- **Lógica e algoritmo (Aulas 01-02):** fluxograma do fluxo principal do sistema, entregue junto ao código e coerente com o que foi implementado.
 - **Variáveis, operadores e entrada/saída (Aulas 03-05):** cadastro interativo via `input()` dos dados principais da entidade do cenário, com conversão adequada de tipos e alguma regra de negócio (cálculo, validação, prioridade etc.) que use operadores relacionais e lógicos.
 - **Comandos de decisão (Aula 06):** menu principal do sistema com múltiplas opções.
 - **Comandos de repetição (Aula 07):** o menu permanece em execução até o usuário escolher sair, e as entradas críticas são validadas com repetição garantida.
