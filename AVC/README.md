@@ -35,12 +35,12 @@ Além dos fundamentos acima, cada grupo deve escolher **pelo menos uma estrutura
 
 Estruturas disponíveis para escolha:
 
-- **Vetores e matrizes** (Aulas 08-09) — útil quando o cenário tem algo naturalmente organizável em grade (vagas, poltronas, salas, prateleiras).
-- **Recursão** (Aula 11) — útil para cálculos que se repetem sobre si mesmos (totais, valores progressivos, buscas).
+- **Vetores e matrizes** (Aulas 07-08) — útil quando o cenário tem algo naturalmente organizável em grade (vagas, poltronas, salas, prateleiras).
+- **Recursão** (Aula 10) — útil para cálculos que se repetem sobre si mesmos (totais, valores progressivos, buscas).
 - **Listas lineares encadeadas** — simples, duplamente ligada ou circular (Aula 13) — úteis para históricos e sequências de eventos.
-- **Pilhas** (Aula 14) — úteis para ações do tipo "desfazer última operação" ou processamento no sentido inverso.
-- **Filas ou deques** (Aula 14) — úteis para ordens de espera/atendimento.
-- **Árvores binárias de busca e balanceamento** (Aula 15) — úteis para cadastro e busca rápida por uma chave (nome, código, identificador).
+- **Pilhas** (Aula 13) — úteis para ações do tipo "desfazer última operação" ou processamento no sentido inverso.
+- **Filas ou deques** (Aula 13) — úteis para ordens de espera/atendimento.
+- **Árvores binárias de busca e balanceamento** (Aula 14) — úteis para cadastro e busca rápida por uma chave (nome, código, identificador).
 
 **Critérios para a estrutura escolhida ser aceita como válida:**
 - Deve ser implementada com classes/lógica própria (não basta usar só a função pronta do Python, exceto quando a própria aula ensinou uma função nativa como ferramenta principal, ex. `numpy` para matrizes ou `collections.deque`).
