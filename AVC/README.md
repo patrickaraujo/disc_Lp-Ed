@@ -102,8 +102,7 @@ Sistema de cadastro e busca de contatos.
 
 ### **Critérios de Avaliação**
 
-- **Lógica e correção dos algoritmos** (15%): fluxograma/pseudocódigo coerente com o código; decisões e repetições corretas.
-- **Fundamentos de programação** (20%): variáveis, operadores, entrada/saída, decisão e repetição bem aplicados no menu e nas regras do cenário.
+- **Fundamentos de programação** (35%): variáveis, operadores, entrada/saída, decisão e repetição bem aplicados no menu e nas regras do cenário.
 - **Funções e modularização** (15%): código bem organizado em funções, sem repetição desnecessária, com parâmetros usados de forma justificada.
 - **Estrutura de dados escolhida** (35%): implementação correta e completa da estrutura escolhida, bem integrada ao sistema e resolvendo um problema real do cenário (não apenas decorativa).
 - **Relatório técnico** (5%): justificativa clara de por que aquela estrutura foi escolhida para o cenário sorteado.
@@ -113,6 +112,5 @@ Sistema de cadastro e busca de contatos.
 
 ### **Entrega**
 - Código-fonte completo, comentado e organizado em módulos/funções.
-- Fluxograma ou pseudocódigo do fluxo principal (Aula 01-02), em arquivo separado (imagem ou PDF).
 - Curto relatório técnico (1 página) indicando qual(is) estrutura(s) de dados foi(ram) escolhida(s), por que ela(s) faz(em) sentido para o cenário sorteado, e como foi(ram) implementada(s).
 - Apresentação ao vivo, na última semana de aula, com o sistema em execução.
