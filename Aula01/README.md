@@ -1,4 +1,4 @@
-# Aula 02 — Lógica de Programação
+# Aula 01 — Lógica de Programação
 
 ## Algoritmos
 
