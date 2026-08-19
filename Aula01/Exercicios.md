@@ -51,141 +51,38 @@ https://www.hypatiamat.com/jogos/torreHanoi/torreHanoi_HTML.html
 
 ---
 
-# Exercícios de Programação
+# Exercícios de Programação e Fluxograma
 
-## Exercício 3 — Soma de dois números
+## Exercício 3 — Perímetro
 
-Peça ao usuário **dois números inteiros** e calcule a soma entre eles.
-
-Em seguida, verifique se o resultado da soma é **maior que 20**.
-
-### Saída esperada
-
-```text
-A soma é maior que 20? True
-```
-
-ou
-
-```text
-A soma é maior que 20? False
-```
+Faça um algoritmo que leia o valor do lado de um quadrado e calcule o seu perímetro.
 
 ---
 
-## Exercício 4 — Limite de peso de uma caixa
+## Exercício 4 — Dobro de um número
 
-Uma caixa suporta no máximo **50 kg**.
-
-Peça ao usuário:
-
-* o peso atual da caixa;
-* o peso do objeto que ele deseja adicionar.
-
-Calcule o peso total e verifique se o novo objeto pode ser colocado na caixa sem ultrapassar o limite de **50 kg**.
-
-### Saída esperada
-
-```text
-Cabe dentro da caixa? True
-```
-
-ou
-
-```text
-Cabe dentro da caixa? False
-```
+Faça um algoritmo que leia um número e mostre o dobro dele.
 
 ---
 
-## Exercício 5 — Temperatura agradável
+## Exercício 5 — Retângulo
 
-Peça ao usuário a **temperatura atual**.
-
-Considere que uma temperatura é agradável quando está **entre 20 °C e 25 °C**, incluindo os valores 20 e 25.
-
-Verifique se a temperatura informada está dentro desse intervalo.
-
-### Saída esperada
-
-```text
-A temperatura está agradável? True
-```
-
-ou
-
-```text
-A temperatura está agradável? False
-```
+Faça um algoritmo que leia a base e a altura de um retângulo e calcule sua área.
 
 ---
 
-## Exercício 6 — Estoque da farmácia
+## Exercício 6 — Conversão de temperaturas
 
-Uma farmácia possui inicialmente **100 unidades** de determinado remédio.
-
-Peça ao usuário a quantidade de unidades que foram vendidas.
-
-Calcule o **estoque final** e verifique se ele ficou com menos de **20 unidades**.
-
-### Saída esperada
-
-```text
-Estoque baixo? True
-```
-
-ou
-
-```text
-Estoque baixo? False
-```
+Faça um algoritmo que leia uma temperatura em graus Celsius e converta para Fahrenheit. Fórmula: F = (C × 1,8) + 32
 
 ---
 
-## Exercício 7 — Controle de velocidade
+## Exercício 7 — Salário
 
-A velocidade máxima permitida em uma via é de **80 km/h**.
-
-Peça ao usuário a velocidade do carro e verifique se ela está **acima de 80 km/h**.
-
-Caso esteja acima do limite, considere que o carro foi multado.
-
-### Saída esperada
-
-```text
-O carro foi multado? True
-```
-
-ou
-
-```text
-O carro foi multado? False
-```
+Faça um algoritmo que leia a quantidade de horas trabalhadas e o valor pago por hora, e calcule o salário final.
 
 ---
 
-## Exercício 8 — Aprovação do aluno
+## Exercício 8 — Conversão de moedas
 
-Peça ao usuário:
-
-* a **nota da prova**;
-* a **frequência do aluno**, em porcentagem.
-
-O aluno será aprovado somente se:
-
-* sua nota for **maior ou igual a 6**; **e**
-* sua frequência for **maior ou igual a 75%**.
-
-Verifique se o aluno atende aos dois critérios.
-
-### Saída esperada
-
-```text
-Aluno aprovado? True
-```
-
-ou
-
-```text
-Aluno aprovado? False
-```
+Faça um algoritmo que leia um valor em reais (R$) e a cotação do dólar, e calcule quantos dólares a pessoa poderá comprar.
