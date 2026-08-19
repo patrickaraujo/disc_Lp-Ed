@@ -163,7 +163,7 @@ fimalgoritmo
 flowchart TD
     Inicio([Início]) --> Entrada[/nota1, nota2, nota3/]
     Entrada --> Proc["Média = (nota1 + nota2 + nota3) / 3"]
-    Proc --> Saida{{Média}}
+    Proc --> Saida[/Média/]
     Saida --> Fim([Fim])
 ```
 
@@ -172,4 +172,4 @@ flowchart TD
 | Início/Fim | Retângulo arredondado | Delimita o algoritmo |
 | Entrada | Paralelogramo | Dados fornecidos (nota1, nota2, nota3) |
 | Processamento | Retângulo | Cálculo (Média = (nota1+nota2+nota3)/3) |
-| Saída | Hexágono | Resultado exibido (Média) |
+| Saída | Paralelogramo | Resultado exibido (Média) |
