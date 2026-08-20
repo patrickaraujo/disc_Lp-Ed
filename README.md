@@ -10,7 +10,6 @@ A organização das pastas segue o cronograma das aulas, facilitando a navegaç�
 
 ```text
 .
-├── AVC/
 ├── Aula01/
 ├── Aula02/
 ├── Aula03/
