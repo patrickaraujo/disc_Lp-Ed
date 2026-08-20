@@ -36,14 +36,13 @@ A organização das pastas segue o cronograma das aulas, facilitando a navegaç�
 
 BACKES, André Ricardo. *Algoritmos e Estruturas de Dados em Linguagem C*. Rio de Janeiro: LTC - Livros Técnicos e Científicos Editora, 2022.
 
-**Bibliografia Básica:**
+DOWNEY, Allen B.. Pense em Python: pense como um cientista da computação. Novatec Editora, 2022
+
 EDELWEISS, Nina, LIVI, Maria Castro. *Algoritmos e Programação com Exemplos em Pascal e C*. Bookman, 01/2014.
 
 MANZANO, José Augusto G., LOURENÇO, André Evandro, MATOS, Ecivaldo. *Algoritmos - Técnicas de Programação*, 2nd edição. Érica, 06/2016.
 
 PERKOVIC, Ljubomir. *Introdução à Computação Usando Python - Um Foco no Desenvolvimento de Aplicações*. LTC, 04/2016.
-
-DOWNEY, Allen B.. Pense em Python: pense como um cientista da computação. Novatec Editora, 2022
 
 **Bibliografia Complementar:**
 
