@@ -1,4 +1,4 @@
-# 🐍 Aula 04 — Entrada, Saída e Operações em Python
+# 🐍 Entrada, Saída e Operações em Python
 
 ## Objetivos
 
