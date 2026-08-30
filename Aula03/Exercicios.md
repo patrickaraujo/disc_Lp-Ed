@@ -1,140 +1,31 @@
 # Exercícios de Programação
 
-## Exercício 1 — Soma de dois números
+## Exercício 1 — Maioridade
 
-Peça ao usuário **dois números inteiros** e calcule a soma entre eles. Em seguida, verifique se o resultado da soma é **maior que 20**.
+Leia a **idade de uma pessoa** e informe se ela é **maior ou menor de idade**. Considere que a maioridade começa aos **18 anos**.
 
-Utilize `if` e `else` para realizar a verificação.
-
-### Saída esperada
-
-```text
-A soma é maior que 20? True
-```
-
-ou
-
-```text
-A soma é maior que 20? False
-```
+Utilize uma estrutura `if/else` para realizar a verificação.
 
 ---
 
-## Exercício 2 — Limite de peso de uma caixa
+## Exercício 2 — Número positivo ou negativo
 
-Uma caixa suporta no máximo **50 kg**. Peça ao usuário:
+Leia um **número inteiro** e informe se ele é **positivo ou negativo**.
 
-* o peso atual da caixa;
-* o peso do objeto que deseja adicionar.
-
-Calcule o peso total e verifique se o objeto pode ser colocado na caixa sem ultrapassar o limite de **50 kg**.
-
-Utilize `if` e `else` para realizar a verificação.
-
-### Saída esperada
-
-```text
-Cabe dentro da caixa? True
-```
-
-ou
-
-```text
-Cabe dentro da caixa? False
-```
+Utilize uma estrutura `if/else` para realizar a verificação.
 
 ---
 
-## Exercício 3 — Temperatura agradável
+## Exercício 3 — Aprovação
 
-Peça ao usuário a **temperatura atual**. Considere que uma temperatura é agradável quando está **entre 20 °C e 25 °C**, incluindo os valores 20 e 25.
+Leia a **nota de um aluno** e informe se ele foi **aprovado ou reprovado**. Considere que a nota mínima para aprovação é **6,0**.
 
-Verifique se a temperatura informada está dentro desse intervalo.
-
-Utilize `if` e `else` para realizar a verificação.
-
-### Saída esperada
-
-```text
-A temperatura está agradável? True
-```
-
-ou
-
-```text
-A temperatura está agradável? False
-```
+Utilize uma estrutura `if/else` para realizar a verificação.
 
 ---
 
-## Exercício 4 — Estoque da farmácia
+## Exercício 4 — Login
 
-Uma farmácia possui inicialmente **100 unidades** de determinado remédio. Peça ao usuário a quantidade de unidades que foram vendidas.
+Solicite ao usuário um **login e uma senha** e verifique se as credenciais estão corretas.
 
-Calcule o **estoque final** e verifique se ele ficou com menos de **20 unidades**.
-
-Utilize `if` e `else` para realizar a verificação.
-
-### Saída esperada
-
-```text
-Estoque baixo? True
-```
-
-ou
-
-```text
-Estoque baixo? False
-```
-
----
-
-## Exercício 5 — Controle de velocidade
-
-A velocidade máxima permitida em uma via é de **80 km/h**. Peça ao usuário a velocidade do carro e verifique se ela está **acima de 80 km/h**.
-
-Caso esteja acima do limite, considere que o carro foi multado.
-
-Utilize `if` e `else` para realizar a verificação.
-
-### Saída esperada
-
-```text
-O carro foi multado? True
-```
-
-ou
-
-```text
-O carro foi multado? False
-```
-
----
-
-## Exercício 6 — Aprovação do aluno
-
-Peça ao usuário:
-
-* a **nota da prova**;
-* a **frequência do aluno**, em porcentagem.
-
-O aluno será aprovado somente se:
-
-* sua nota for **maior ou igual a 6**; **e**
-* sua frequência for **maior ou igual a 75%**.
-
-Verifique se o aluno atende aos dois critérios.
-
-Utilize `if` e `else` e o operador lógico `and` para realizar a verificação.
-
-### Saída esperada
-
-```text
-Aluno aprovado? True
-```
-
-ou
-
-```text
-Aluno aprovado? False
-```
+Utilize os **operadores relacionais e lógicos**, juntamente com uma estrutura `if/else`, para permitir ou negar o acesso.
