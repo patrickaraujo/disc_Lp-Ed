@@ -45,29 +45,7 @@ Cabe dentro da caixa? False
 
 ---
 
-## Exercício 3 — Temperatura agradável
-
-Peça ao usuário a **temperatura atual**.
-
-Considere que uma temperatura é agradável quando está **entre 20 °C e 25 °C**, incluindo os valores 20 e 25.
-
-Verifique se a temperatura informada está dentro desse intervalo.
-
-### Saída esperada
-
-```text
-A temperatura está agradável? True
-```
-
-ou
-
-```text
-A temperatura está agradável? False
-```
-
----
-
-## Exercício 4 — Estoque da farmácia
+## Exercício 3 — Estoque da farmácia
 
 Uma farmácia possui inicialmente **100 unidades** de determinado remédio.
 
@@ -89,7 +67,7 @@ Estoque baixo? False
 
 ---
 
-## Exercício 5 — Controle de velocidade
+## Exercício 4 — Controle de velocidade
 
 A velocidade máxima permitida em uma via é de **80 km/h**.
 
@@ -111,7 +89,7 @@ O carro foi multado? False
 
 ---
 
-## Exercício 6 — Aprovação do aluno
+## Exercício 5 — Aprovação do aluno
 
 Peça ao usuário:
 
