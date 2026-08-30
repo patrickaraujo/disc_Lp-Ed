@@ -1,31 +1,61 @@
-# Exercícios de Programação
+# Exercícios de Programação — Estruturas Condicionais
 
-## Exercício 1 — Maioridade
+## Bloco 1 — `if/else` simples
 
-Leia a **idade de uma pessoa** e informe se ela é **maior ou menor de idade**. Considere que a maioridade começa aos **18 anos**.
-
+### Exercício 1 — Elegibilidade para Votação
+Leia a idade de uma pessoa e informe se ela já pode votar ou não.
+Considere que o voto é permitido a partir dos 16 anos.
 Utilize uma estrutura `if/else` para realizar a verificação.
 
 ---
 
-## Exercício 2 — Número positivo ou negativo
-
-Leia um **número inteiro** e informe se ele é **positivo ou negativo**.
-
+### Exercício 2 — Número Positivo ou Negativo
+Leia um número inteiro e informe se ele é positivo ou negativo.
+Considere zero como um valor positivo.
 Utilize uma estrutura `if/else` para realizar a verificação.
 
 ---
 
-## Exercício 3 — Aprovação
+## Bloco 2 — `if/else` aninhado
 
-Leia a **nota de um aluno** e informe se ele foi **aprovado ou reprovado**. Considere que a nota mínima para aprovação é **6,0**.
+### Exercício 3 — Aprovação por Média e Faltas
+Peça a média final do aluno e a porcentagem de faltas.
+Se a média for maior ou igual a 7, verifique as faltas:
+- Se tiver menos de 25% de faltas, mostre "Aprovado".
+- Caso contrário, mostre "Reprovado por falta".
 
-Utilize uma estrutura `if/else` para realizar a verificação.
+Se a média for menor que 7, mostre "Reprovado por nota".
 
 ---
 
-## Exercício 4 — Login
+### Exercício 4 — Carteira de Motorista
+Peça a idade de uma pessoa.
+Se for maior ou igual a 18 anos, verifique se possui carteira de motorista (CNH):
+- Se sim, mostre "Pode dirigir".
+- Se não, mostre "Precisa tirar a carteira".
 
-Solicite ao usuário um **login e uma senha** e verifique se as credenciais estão corretas.
+Se for menor de 18 anos, mostre "Não pode dirigir".
 
-Utilize os **operadores relacionais e lógicos**, juntamente com uma estrutura `if/else`, para permitir ou negar o acesso.
+---
+
+### Exercício 5 — Positivo, Negativo, Zero, Par ou Ímpar
+Peça um número inteiro.
+Se o número for positivo, verifique se é par ou ímpar.
+Se o número for negativo, mostre "Número negativo".
+Se for zero, mostre "Zero não é positivo nem negativo".
+
+---
+
+### Exercício 6 — Par/Ímpar e Comparação de Dois Números
+Peça ao usuário um número inteiro, verifique se ele é par ou ímpar e exiba o resultado na tela.
+Em seguida, solicite dois novos números inteiros, compare-os e informe qual deles é o maior, ou se ambos são iguais.
+
+---
+
+## Bloco 3 — Operadores relacionais e lógicos
+
+### Exercício 7 — Validação de Usuário e Senha
+Peça um usuário e uma senha.
+- Se usuário `unisa` e senha `1234`: pergunte se deseja acessar como administrador — "sim" mostra "Acesso total!", caso contrário "Acesso restrito".
+- Se usuário `usuario` e senha `5678`: mostre "Acesso externo".
+- Caso contrário: mostre "Usuário ou senha inválidos".
