@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="434" viewBox="0 0 240 434">
+<defs>
+  <marker id="a6" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+    <path d="M0,0 L8,4 L0,8 Z" fill="#14204d"/>
+  </marker>
+</defs>
+<rect x="70.0" y="20" width="100" height="36" rx="18.0" fill="#f0f2fa" stroke="#14204d" stroke-width="1.6"/><text x="120.0" y="38.0" font-size="13" text-anchor="middle" dominant-baseline="middle" fill="#14204d" font-family="Segoe UI, Arial, sans-serif">Início</text>
+<line x1="120.0" y1="56" x2="120.0" y2="82" stroke="#14204d" stroke-width="1.6" marker-end="url(#a6)"/>
+<polygon points="68.1,82 198.5,82 171.9,158 41.5,158" fill="#f0f2fa" stroke="#14204d" stroke-width="1.6"/><text x="120.0" y="112.5" font-size="11.5" text-anchor="middle" dominant-baseline="middle" fill="#14204d" font-family="Segoe UI, Arial, sans-serif">valor_reais,</text><text x="120.0" y="127.5" font-size="11.5" text-anchor="middle" dominant-baseline="middle" fill="#14204d" font-family="Segoe UI, Arial, sans-serif">cotacao_dolar</text>
+<line x1="120.0" y1="158" x2="120.0" y2="184" stroke="#14204d" stroke-width="1.6" marker-end="url(#a6)"/>
+<rect x="-8.0" y="184" width="256" height="76" fill="#f0f2fa" stroke="#14204d" stroke-width="1.6"/><text x="120.0" y="214.0" font-size="11.5" text-anchor="middle" dominant-baseline="middle" fill="#14204d" font-family="Segoe UI, Arial, sans-serif">valor_dolares =</text><text x="120.0" y="230.0" font-size="11.5" text-anchor="middle" dominant-baseline="middle" fill="#14204d" font-family="Segoe UI, Arial, sans-serif">valor_reais / cotacao_dolar</text>
+<line x1="120.0" y1="260" x2="120.0" y2="286" stroke="#14204d" stroke-width="1.6" marker-end="url(#a6)"/>
+<path d="M 36.5,286 L 203.5,286 L 203.5,332 Q 161.75,348.0 120.0,332 Q 78.25,316.0 36.5,332 Z" fill="#f0f2fa" stroke="#14204d" stroke-width="1.6" stroke-linejoin="round"/>
+<text x="120.0" y="309.0" font-size="12" text-anchor="middle" dominant-baseline="middle" fill="#14204d" font-family="Segoe UI, Arial, sans-serif">valor_dolares</text>
+<line x1="120.0" y1="352" x2="120.0" y2="378" stroke="#14204d" stroke-width="1.6" marker-end="url(#a6)"/>
+<rect x="70.0" y="378" width="100" height="36" rx="18.0" fill="#f0f2fa" stroke="#14204d" stroke-width="1.6"/><text x="120.0" y="396.0" font-size="13" text-anchor="middle" dominant-baseline="middle" fill="#14204d" font-family="Segoe UI, Arial, sans-serif">fim</text>
+</svg>
