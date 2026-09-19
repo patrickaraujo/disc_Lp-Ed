@@ -4,7 +4,7 @@
 # qualquer outra entrada.
 
 
-def mostrar_mes(mes: str) -> None:
+def main(mes: str) -> None:
     match mes:
         case "1":
             print("Jan")
@@ -36,4 +36,4 @@ def mostrar_mes(mes: str) -> None:
 
 if __name__ == "__main__":
     mes = input("Digite um mês: ")
-    mostrar_mes(mes)
+    main(mes)
