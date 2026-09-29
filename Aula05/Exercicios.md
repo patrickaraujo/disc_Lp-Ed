@@ -74,32 +74,17 @@ Crie um programa que solicite ao usuário um **número inteiro** e exiba a sua *
 
 ---
 
-## 6. Senha correta
+## 6. Pares
 
-> **Estrutura:** `while`.
+> **Estrutura:** `while` ou `for`, à sua escolha.
 
-Solicite uma **senha numérica** ao usuário.
-
-Enquanto a senha digitada for diferente de **1234**, mostre:
-
-    Senha incorreta. Tente novamente.
-
-Quando a senha correta for digitada, mostre:
-
-    Acesso permitido.
-
-**Exemplo de execução:**
-
-    Digite a senha: 1111
-    Senha incorreta. Tente novamente.
-    Digite a senha: 1234
-    Acesso permitido.
+Faça um programa que calcule e mostre a soma dos 50 primeiros números pares.
 
 ---
 
 ## 7. Soma acumulada
 
-> **Estrutura:** `while`.
+> **Estrutura:** `while` ou `for`, à sua escolha.
 
 Peça ao usuário **números inteiros**, um por vez, até que ele digite **0**.
 
