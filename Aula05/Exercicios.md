@@ -1,4 +1,6 @@
-# Exercício: Condicionais Compostas
+# Lista de Exercícios
+
+# Parte 1 — Condicionais Compostas
 
 ## 1. Classificação etária e preço do ingresso
 
@@ -51,3 +53,62 @@ Peça ao usuário que informe a **velocidade da internet em Mbps** e classifique
 - **11 a 50 Mbps:** Média
 - **51 a 200 Mbps:** Rápida
 - **Acima de 200 Mbps:** Ultra Rápida
+
+---
+
+# Parte 2 — Estruturas de Repetição (`while` e `for`)
+
+## 5. Tabuada
+
+> **Estrutura:** `while` ou `for`, à sua escolha.
+
+Crie um programa que solicite ao usuário um **número inteiro** e exiba a sua **tabuada completa**, multiplicando o número digitado por todos os valores de **1 a 10** de forma organizada.
+
+**Exemplo de execução:**
+
+    Digite um número para ver a tabuada: 7
+    7 x 1 = 7
+    7 x 2 = 14
+    ...
+    7 x 10 = 70
+
+---
+
+## 6. Senha correta
+
+> **Estrutura:** `while`.
+
+Solicite uma **senha numérica** ao usuário.
+
+Enquanto a senha digitada for diferente de **1234**, mostre:
+
+    Senha incorreta. Tente novamente.
+
+Quando a senha correta for digitada, mostre:
+
+    Acesso permitido.
+
+**Exemplo de execução:**
+
+    Digite a senha: 1111
+    Senha incorreta. Tente novamente.
+    Digite a senha: 1234
+    Acesso permitido.
+
+---
+
+## 7. Soma acumulada
+
+> **Estrutura:** `while`.
+
+Peça ao usuário **números inteiros**, um por vez, até que ele digite **0**.
+
+Ao final, mostre a **soma** de todos os números digitados, exceto o zero.
+
+**Exemplo de execução:**
+
+    Digite um número: 5
+    Digite um número: 3
+    Digite um número: 12
+    Digite um número: 0
+    Soma total = 20
