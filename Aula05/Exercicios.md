@@ -1,30 +1,27 @@
 # Exercício: Condicionais Compostas
 
-## 1. Classificação por idade
+## 1. Classificação etária e preço do ingresso
 
-Crie um programa que leia a **idade de uma pessoa** e informe sua classificação:
+Em um cinema, o preço do ingresso varia de acordo com a faixa etária do cliente.
 
-- **0 a 12 anos:** Criança
-- **13 a 17 anos:** Adolescente
-- **18 a 59 anos:** Adulto
-- **60 anos ou mais:** Idoso
+Crie um programa que leia a **idade de uma pessoa** e exiba sua **classificação** e o **preço do ingresso** correspondente:
 
----
+| Faixa etária        | Classificação | Preço do ingresso |
+|---------------------|---------------|-------------------|
+| 0 a 12 anos         | Criança       | R$ 10,00          |
+| 13 a 17 anos        | Adolescente   | R$ 15,00          |
+| 18 a 59 anos        | Adulto        | R$ 20,00          |
+| 60 anos ou mais     | Idoso         | R$ 12,00          |
 
-## 2. Preço do ingresso do cinema
+**Exemplo de execução:**
 
-Em um cinema, os preços variam de acordo com a faixa etária.
-
-Peça ao usuário que informe sua **idade** e exiba o preço correspondente:
-
-- **Até 12 anos:** R$ 10,00
-- **13 a 17 anos:** R$ 15,00
-- **18 a 59 anos:** R$ 20,00
-- **60 anos ou mais:** R$ 12,00
+    Informe sua idade: 15
+    Classificação: Adolescente
+    Preço do ingresso: R$ 15,00
 
 ---
 
-## 3. Conversão de nota para conceito
+## 2. Conversão de nota para conceito
 
 Receba uma **nota de 0 a 100** e converta-a para um conceito:
 
@@ -35,7 +32,7 @@ Receba uma **nota de 0 a 100** e converta-a para um conceito:
 
 ---
 
-## 4. Classificação da temperatura
+## 3. Classificação da temperatura
 
 Peça ao usuário que informe a **temperatura em graus Celsius** e classifique-a:
 
@@ -46,7 +43,7 @@ Peça ao usuário que informe a **temperatura em graus Celsius** e classifique-a
 
 ---
 
-## 5. Classificação da velocidade da internet
+## 4. Classificação da velocidade da internet
 
 Peça ao usuário que informe a **velocidade da internet em Mbps** e classifique-a:
 
