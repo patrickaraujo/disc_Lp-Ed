@@ -35,5 +35,5 @@ def main():
         else:
             print("Usuário ou senha inválidos")
  
-if __name == "main__":
+if __name == "__main__":
     main()
