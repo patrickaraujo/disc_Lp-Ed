@@ -13,23 +13,24 @@ Saída esperada:
  
  
 def main():
-    soma = 0
- 
-    # range(2, 101, 2) gera 2, 4, 6, ..., 100
-    for par in range(2, 101, 2):
-        soma += par
-    
-    print(f"Soma com while: {soma}")
-    
-    
+    # Forma 1: while
     soma = 0
     contador = 1  # Quantos pares já foram somados
- 
+
     while contador <= 50:
         par = contador * 2
         soma += par
         contador += 1
- 
+
+    print(f"Soma com while: {soma}")
+
+    # Forma 2: for
+    soma = 0
+
+    # range(2, 101, 2) gera 2, 4, 6, ..., 100
+    for par in range(2, 101, 2):
+        soma += par
+
     print(f"Soma com for: {soma}")
  
 if __name__ == "__main__":
