@@ -1,11 +1,12 @@
-    '''
-        Crie um programa que utilize comandos de saída (print) para exibir 
-        diferentes tipos de dados e realize operações aritméticas básicas 
-        (soma, subtração, divisão, multiplicação, potência, divisão inteira e 
-        resto) além de manipulação de strings. Em seguida, utilize o comando de 
-        entrada (input) para perguntar o nome do usuário e a disciplina que ele 
-        estuda, exibindo uma mensagem personalizada de boas-vindas ao final.
-    '''
+'''
+    Crie um programa que utilize comandos de saída (print) para exibir 
+    diferentes tipos de dados e realize operações aritméticas básicas 
+    (soma, subtração, divisão, multiplicação, potência, divisão inteira e 
+    resto) além de manipulação de strings. Em seguida, utilize o comando de 
+    entrada (input) para perguntar o nome do usuário e a disciplina que ele 
+    estuda, exibindo uma mensagem personalizada de boas-vindas ao final.
+'''
+
 def main():
     # Para fazer comentários em uma linha, usamos -> #
 
