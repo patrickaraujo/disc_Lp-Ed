@@ -3,9 +3,9 @@ Faça um algoritmo que leia um número e mostre o dobro dele
 '''
 
 def main():
-    lado = int(input("Digite o valor do lado do quadrado: "))
-    perimetro = lado * 4
-    print(f"O perímetro do quadrado é: {perimetro}")
+    numero = float(input("Digite um número: "))
+    dobro = numero * 2
+    print(f"O dobro de {numero} é: {dobro}")
 
 if __name__ == "__main__":
     main()
